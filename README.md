@@ -1,0 +1,3 @@
+- buat Gradle sederhana untuk menerima parameter CLI dan mencetaknya dengan pesan ucapan
+- Proyek skrip Gradle harus dibuat di repositori yang berbeda dan dorong ke GitHub
+- <img width="923" alt="gradle greeting task(1)" src="https://github.com/dipran11/Gradle1.5/assets/158012785/17679f99-6d78-4cdb-9da0-0129f1e35d49">
